@@ -1,2 +1,2 @@
 # dankicode-project-1
- Projeto feito no curso full stack da Danki code.
+ Projetos feito no curso full stack da Danki code.
